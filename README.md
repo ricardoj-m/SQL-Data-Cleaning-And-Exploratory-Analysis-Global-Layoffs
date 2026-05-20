@@ -56,3 +56,5 @@ Key Focus Areas:
 * data_cleaning.sql: Contains the complete data sanitization, deduplication, and transformation queries.
 
 * exploratory_data_analysis.sql: Contains the trend analytics, cumulative calculations, and ranking models.
+
+* layoffs.cvs: raw data.
